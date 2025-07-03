@@ -25,3 +25,9 @@ This repository will contain backend and frontend code, documentation, and deplo
 ---
 
 ### Project structure (planned)
+
+
+## Contributing
+Thank you for your interest in this project!  
+At this time, I am **not accepting contributions or pull requests**.  
+Feel free to use and modify the code for your own purposes under the terms of the MIT License.
